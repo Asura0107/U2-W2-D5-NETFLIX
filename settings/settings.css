@@ -1,3 +1,15 @@
 a {
   text-decoration: none;
 }
+nav a {
+  color: white;
+}
+.my-container {
+  width: 950px;
+}
+li {
+  align-self: center;
+}
+main a {
+  margin-bottom: 1rem;
+}
