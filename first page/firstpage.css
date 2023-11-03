@@ -1,0 +1,30 @@
+:root {
+  --bg-dark: #141414;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+li {
+  align-self: center;
+  list-style-type: none;
+}
+footer {
+  color: #7f7f7f;
+  height: 30vh;
+  margin-top: 180px;
+}
+footer li {
+  margin-bottom: 8px;
+}
+footer button {
+  color: #7f7f7f;
+  border: 2px solid #7f7f7f;
+}
+footer ul {
+  padding: 0;
+}
+
+img {
+  width: 250px;
+}
