@@ -1,0 +1,38 @@
+:root {
+  --bg-dark: #141414;
+  --border-dark: #141414;
+  --bg-secondary-subtle: #666666;
+  --bg-secondary: #2b2a2a;
+}
+h1 {
+  font-size: 3.5rem;
+}
+.mycontainer {
+  width: 600px;
+}
+img {
+  width: 130px;
+}
+button {
+  color: #7f7f7f;
+
+  border: 2px solid #7f7f7f;
+}
+.my-button:hover {
+  background-color: #706f6f;
+}
+.my-span {
+  left: 10px;
+  top: 100px;
+  background-color: black;
+  border-radius: 50%;
+  border: 1px solid white;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.my-svg {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+}
