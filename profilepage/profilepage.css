@@ -37,3 +37,6 @@ button:hover {
   inset: 0;
   margin: auto;
 }
+.my-input {
+  background-color: #9b9ea3;
+}
