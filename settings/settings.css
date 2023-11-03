@@ -16,3 +16,7 @@ main a {
 button {
   border: 1px solid rgb(204, 201, 201);
 }
+.my-p {
+  border: 1px solid black;
+  box-shadow: -1px 1px 1px 0px;
+}
