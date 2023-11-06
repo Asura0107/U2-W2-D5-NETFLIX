@@ -5,7 +5,7 @@ nav a {
   color: white;
 }
 .my-container {
-  width: 950px;
+  max-width: 950px;
 }
 li {
   align-self: center;
